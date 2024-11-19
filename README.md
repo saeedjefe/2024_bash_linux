@@ -1,1 +1,1 @@
-# 2024_linux
+# 2024_bash_linux
